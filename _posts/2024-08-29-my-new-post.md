@@ -12,3 +12,37 @@ This is the content of my new post.
 ## Subheading
 
 More content here.
+
+
+
+博客地址
+
+
+
+https://zhendijiadi.github.io/
+
+
+
+博客
+
+```
+jekyll serve --host 0.0.0.0 --port 4000 
+
+
+```
+
+
+
+
+
+
+
+```
+```
+
+
+
+jekyll serve --host 0.0.0.0 --port 4000 
+
+
+
