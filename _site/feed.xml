@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Tommmy's Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-08-29T21:13:51+08:00</updated>
+  <updated>2024-08-30T10:55:48+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -17,66 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Welcome to Jekyll!</title>
-    <link href="http://localhost:4000/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
-    <published>2024-08-29T17:52:36+08:00</published>
-  
-    <updated>2024-08-29T17:52:36+08:00</updated>
-  
-    <id>http://localhost:4000/posts/welcome-to-jekyll/</id>
-    <content src="http://localhost:4000/posts/welcome-to-jekyll/" />
-    <author>
-      <name>your_full_name</name>
-    </author>
-
-  
-    
-    <category term="jekyll" />
-    
-    <category term="update" />
-    
-  
-
-  <summary>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-YEAR-MONTH-DAY-title.MAR...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Welcome to Jekyll!</title>
-    <link href="http://localhost:4000/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
-    <published>2024-08-29T17:50:02+08:00</published>
-  
-    <updated>2024-08-29T17:50:02+08:00</updated>
-  
-    <id>http://localhost:4000/posts/welcome-to-jekyll/</id>
-    <content src="http://localhost:4000/posts/welcome-to-jekyll/" />
-    <author>
-      <name>your_full_name</name>
-    </author>
-
-  
-    
-    <category term="jekyll" />
-    
-    <category term="update" />
-    
-  
-
-  <summary>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-YEAR-MONTH-DAY-title.MAR...</summary>
-
-  </entry>
 
   
   <entry>
@@ -150,11 +90,11 @@ jekyll serve –...</summary>
 
   
   <entry>
-    <title>Intro</title>
-    <link href="http://localhost:4000/posts/Fed/" rel="alternate" type="text/html" title="Intro" />
+    <title>联邦学习</title>
+    <link href="http://localhost:4000/posts/Fed/" rel="alternate" type="text/html" title="联邦学习" />
     <published>2024-08-29T10:00:00+08:00</published>
   
-    <updated>2024-08-29T10:00:00+08:00</updated>
+    <updated>2024-08-30T01:07:04+08:00</updated>
   
     <id>http://localhost:4000/posts/Fed/</id>
     <content src="http://localhost:4000/posts/Fed/" />
@@ -170,15 +110,7 @@ jekyll serve –...</summary>
     
   
 
-  <summary>★ 为啥搞个博客
-
-受一些俺认为很酷的一些极客的影响, 俺也想开个博客来记录一下俺学习CS相关的学习历程, 顺便锻炼一下自己的写作能力.
-
-★ 想更新的内容
-
-
-  学习科研灌水的历程
-  对一些技术的学习</summary>
+  <summary></summary>
 
   </entry>
 
